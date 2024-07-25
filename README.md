@@ -1,10 +1,10 @@
-# **Analysis of the Effect of COVID-19 Pandemic on India**
+# Analysis of the Effect of COVID-19 Pandemic on India
 
-## **Introduction**
+## Introduction
 
 This project aims to analyze the impact of the COVID-19 pandemic on India and its various states. The analysis focuses on several key aspects, including active cases, deaths, vaccinations, and growth trends. The results are visualized using graphs to provide a clear and comprehensive understanding of the pandemic's effects.
 
-## **Objectives**
+## Objectives
 
 * Identify the top 15 states with the most active COVID-19 cases.
 * Identify the top 15 states with the most deaths due to COVID-19.
@@ -13,11 +13,11 @@ This project aims to analyze the impact of the COVID-19 pandemic on India and it
 * Analyze gender-based vaccination data.
 * Examine the growth trends of COVID-19 across different states.
 
-## **Data Sources**
+## Data Sources
 
 The data used for this analysis is obtained from credible sources, including government health departments and publicly available datasets related to COVID-19 in India.
 
-## **Technologies Used**
+## Technologies Used
 
 * **Python**: The primary programming language used for analysis.
 * **NumPy**: Used for numerical operations and data manipulation.
@@ -31,7 +31,7 @@ The data used for this analysis is obtained from credible sources, including gov
 
       git clone https://github.com/snayak-commits/COVID-19-Analysis.git
 
-## **Analysis Overview**
+## Analysis Overview
 
 1. **Top 15 States with Most Active Cases**:
    * Identifies and visualizes states with the highest number of active COVID-19 cases.
@@ -46,16 +46,20 @@ The data used for this analysis is obtained from credible sources, including gov
 6. **COVID-19 Growth Trends**:
    * Analyzes and visualizes the growth trends of COVID-19 cases across different states over time.
 
-## **Visualization Examples**
+## Visualization Examples
 
 * **Bar Charts**: Used to compare the number of active cases, deaths, and vaccinations across states.
 * **Line Graphs**: Used to show the growth trends of COVID-19 cases over time.
 * **Pie Charts**: Used to represent the gender distribution of vaccinations.
 
-## **License**
+## Contributing
+
+Contributions are welcome! If you have any ideas for improvements or new features, feel free to open an issue or submit a pull request.
+
+## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
-## **Acknowledgments**
+## Acknowledgments
 
 I would like to thank all the data providers and contributors who have made this project possible.
