@@ -28,7 +28,8 @@ The data used for this analysis is obtained from credible sources, including gov
 ## Installation
 
 * **Clone this repository:**
-`https://github.com/snayak-commits/COVID-19-Analysis.git`
+
+      git clone https://github.com/snayak-commits/COVID-19-Analysis.git
 
 ## **Analysis Overview**
 
